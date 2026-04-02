@@ -1,0 +1,2 @@
+Added simple validation and require statements to prevent invalid inputs.
+Improved reliability and reduced potential misuse of functions.
