@@ -1,0 +1,2 @@
+Introduced events to track important actions within the contract.
+Helps with debugging and improves on-chain transparency.
